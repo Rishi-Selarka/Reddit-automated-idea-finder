@@ -1,0 +1,14 @@
+# Reddit API Credentials
+# Get these from https://www.reddit.com/prefs/apps
+REDDIT_CLIENT_ID=your_reddit_client_id_here
+REDDIT_CLIENT_SECRET=your_reddit_client_secret_here
+
+# OpenAI API Key
+# Get this from https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Email Configuration
+# Use Gmail with App Password (not your regular password)
+EMAIL_SENDER=your_gmail_address@gmail.com
+EMAIL_PASSWORD=your_gmail_app_password_here
+EMAIL_RECEIVER=your_personal_email@gmail.com
